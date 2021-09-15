@@ -1,5 +1,5 @@
 # NYSED-Remote-Learning-Survey
-Results from a NYSED survey conducted in Fall 2020 about student access to devices and internet obtained by the NYCLU via a Freedom of Information Law request. Learn more about the survey INSERT LINK TO PRESS RELEASE.
+Results from a NYSED survey conducted in Fall 2020 about student access to devices and internet obtained by the NYCLU via a Freedom of Information Law request. Learn more about the survey [here](https://www.nyclu.org/en/press-releases/nysed-survey-8-ny-students-without-devices-during-pandemic-racial-disparities).
 
 Contents
 * `Survey Results by School.xlsx` contains cleaned results of the NYSED survey on a school by school-level. Each row represents a public school that responded to the survey.
